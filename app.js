@@ -14,7 +14,7 @@ function PageTransitions() {
         })
     }
 
-    // Sections ACtive Class
+    // Sections Active Class
     allSections.addEventListener('click', (e) => {
         // console.log(e.target);
         const id = e.target.dataset.id;
