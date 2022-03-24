@@ -1,19 +1,17 @@
 Repo Name
 =========
+Portolio-site
 
 Description
 ---------------
-Enter your repo instructions here.
-
-Google Fonts - Poppins
-Font Awesome CDN - https://cdnjs.com/libraries/font-awesome
-Visual Studio Code - SASS Autocompile, HTML, CSS
-Clip-path generator
+Generic portfolio web site built in HTML, JavaScript, and Sass. 
 
 Requirements
 --------------
-* linux
-* python
+* Poppins from Google Fonts: https://fonts.google.com/specimen/Poppins
+* Font Awesome CDN: https://cdnjs.com/libraries/font-awesome
+* Visual Studio Code or similar with a few plugins: SASS Autocompile, HTML, CSS
+* Clip-Path Generator: https://www.cssportal.com/css-clip-path-generator/
 
 License
 -------
